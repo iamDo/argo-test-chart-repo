@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  argo-test-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-16T12:48:07.271025196+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 12bdfd4af37d90491adf5af35c8a740587825ce5889fe9121b823c649f80bcc7
+    name: argo-test-chart
+    type: application
+    urls:
+    - https://iamdo.github.io/argo-test-chart-repo/argo-test-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-16T12:48:07.270050652+01:00"
