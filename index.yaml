@@ -3,7 +3,17 @@ entries:
   argo-test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-09T15:02:30.987328737+01:00"
+    created: "2021-12-09T15:11:21.318349164+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 712de9999f75b7cbc95ae0fee213059b0a660ff23cda06d896eafbb4bc581884
+    name: argo-test-chart
+    type: application
+    urls:
+    - https://iamdo.github.io/argo-test-chart-repo/argo-test-chart-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-09T15:11:21.316578942+01:00"
     description: A Helm chart for Kubernetes
     digest: 37c09fb3f063ba81ca29cf220185c636cd66bc9816028a63fba7ef194371a1d5
     name: argo-test-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-09T15:02:30.985784061+01:00"
+    created: "2021-12-09T15:11:21.314888981+01:00"
     description: A Helm chart for Kubernetes
     digest: d7ea86738c499610b02cade153f795ca72ae3334686446bd2f18a812eba06dd2
     name: argo-test-chart
@@ -23,7 +33,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-09T15:02:30.984322401+01:00"
+    created: "2021-12-09T15:11:21.313350003+01:00"
     description: A Helm chart for Kubernetes
     digest: 746850cde1cfee81bc2df41065f6166ea019a8603efa3688f3f5713be980618b
     name: argo-test-chart
@@ -33,7 +43,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-09T15:02:30.98270644+01:00"
+    created: "2021-12-09T15:11:21.311657637+01:00"
     description: A Helm chart for Kubernetes
     digest: 12bdfd4af37d90491adf5af35c8a740587825ce5889fe9121b823c649f80bcc7
     name: argo-test-chart
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://iamdo.github.io/argo-test-chart-repo/argo-test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-09T15:02:30.98093649+01:00"
+generated: "2021-12-09T15:11:21.309870252+01:00"
